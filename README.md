@@ -62,7 +62,7 @@ This repo is distributed under the MIT License.
 If you find this template useful, please consider starring 🌟 the repo and citing:  
 
 @misc{resume_longformer_2025,  
-  author  = {Liu Zhimeng & },  
+  author  = {Liu Zhimeng & Duan Yiyang},  
   title   = {Fine-tuning Longformer for Résumé–JD Matching},  
   year    = 2025,  
   url     = {https://github.com/ZMAmeng/AI6101-miniproject}
